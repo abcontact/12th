@@ -1,0 +1,111 @@
+body{
+    background-color: rgba(25, 25, 32, 0.952);
+}
+*{
+    margin: 0%;
+}
+h1,h2,h3,h4{
+text-align: center;
+}
+h1{
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    text-decoration: none;
+}
+h2{
+    font-size: 50px;
+    color: rgb(250, 231, 122);
+    font-style: oblique;
+}
+#class{
+    text-align: left;
+    padding: 20px;
+    display: inline;
+}
+#date{
+    text-align: right;
+    padding: 20px;
+    display: inline;
+   
+
+}
+
+h3{
+    font-size: 30px;
+    color: burlywood;
+}
+h4{
+    color: burlywood; 
+    
+}
+
+td{
+    /* padding: 50px; */
+    width: 1600px;
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    color: white;
+  
+}
+a{
+    text-decoration: none;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    -ms-ime-align: centre;
+}
+ img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border: 10px solid transparent;
+    
+    border-color: rgb(250, 231, 122);
+  }
+  pre{
+font-size:20px ;
+color: rgb(0, 0, 0);
+
+
+
+  }
+footer{
+    padding: 20px;
+    border: 3px solid rgb(7, 1, 1);
+    background-color:rgb(250, 231, 122);
+}
+nav{
+    border: 2px solid rgb(128, 128, 128);
+    background-color: rgb(250, 231, 122);
+    height: 150px;
+    padding-top: 35px;
+   
+}
+mark{
+    color: rgb(255, 0, 234);
+
+}
+#college{
+color: rgb(136, 33, 33);
+
+}
+#move{
+    color: rgb(255, 182, 87);
+    font-size: 35px;
+}
+#classdate{
+
+    display: flex;
+    justify-content: space-evenly;
+}
+#notes1{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+}
